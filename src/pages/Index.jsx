@@ -3,8 +3,8 @@ import { Link as RouterLink } from "react-router-dom";
 
 const Index = () => {
   return (
-    <Container maxW="container.xl" p={0}>
-      <Flex as="nav" bg="gray.800" color="white" p={4} justifyContent="space-between" alignItems="center">
+    <Container maxW="container.xl" p={0} bg="#F3F2EF">
+      <Flex as="nav" bg="#333333" color="white" p={4} justifyContent="space-between" alignItems="center">
         <Heading as="h1" size="lg">
           Financial Times
         </Heading>
